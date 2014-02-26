@@ -15,6 +15,14 @@ var Converter = (function(){
         },
         convertFromMetricToImperial: function(weight) {
             return weight / converterValue;
+        },
+
+        positiveNum: function(number) {
+            var number = parseInt(number);
+            if (number < 0 ){
+                throw new Error ("not a positive number");
+            }
+
         }
     }
 }());

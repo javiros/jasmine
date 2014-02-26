@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42be0503-b911-4bd4-a67c-8b08fabd646c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/converter.js" afterPath="$PROJECT_DIR$/js/converter.js" />
+      <change type="MOVED" beforePath="C:\Users\j\RubymineProjects\jasmine\js\converter.js" afterPath="$PROJECT_DIR$/test/js/converter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/ConverterSpec.js" afterPath="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasmine.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/SpecRunner.html" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393447451949" ignored="false" />
-    <file path="/Dummy.txt" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393447541420" ignored="false" />
-    <file path="/ConverterSpec.js" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393446829921" ignored="false" />
-    <file path="/converter.js" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393447322141" ignored="false" />
+    <file path="/Dummy.txt" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393448212612" ignored="false" />
+    <file path="/ConverterSpec.js" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393449703466" ignored="false" />
+    <file path="/converter.js" changelist="42be0503-b911-4bd4-a67c-8b08fabd646c" time="1393449950148" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,28 +28,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="26" selection-start="983" selection-end="983" vertical-scroll-proportion="0.71875">
+            <state line="12" column="38" selection-start="531" selection-end="531" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConverterSpec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ConverterSpec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+            <state line="11" column="33" selection-start="464" selection-end="464" vertical-scroll-proportion="0.3207547">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="converter.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/converter.js">
+        <entry file="file://$PROJECT_DIR$/test/js/converter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
+            <state line="22" column="58" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,15 +75,17 @@
       <list>
         <option value="$PROJECT_DIR$/js/ConverterSpec.js" />
         <option value="$PROJECT_DIR$/test/js/ConverterSpec.js" />
-        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/js/converter.js" />
+        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
+        <option value="$PROJECT_DIR$/test/js/converter.js" />
+        <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="14" />
-    <option name="width" value="865" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -226,8 +229,8 @@
       <recent name="C:\Users\j\RubymineProjects\jasmine\test\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\j\RubymineProjects\jasmine\test\spec" />
       <recent name="C:\Users\j\RubymineProjects\jasmine\test\js" />
+      <recent name="C:\Users\j\RubymineProjects\jasmine\test\spec" />
     </key>
   </component>
   <component name="RunManager">
@@ -329,11 +332,15 @@
       <created>1393447543564</created>
       <updated>1393447543564</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="js and css files">
+      <created>1393448214701</created>
+      <updated>1393448214701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="14" width="865" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -341,7 +348,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30386052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18484849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -448,23 +455,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/converter.js">
+    <entry file="file://$PROJECT_DIR$/test/js/converter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+        <state line="22" column="58" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="983" selection-end="983" vertical-scroll-proportion="0.71875">
+        <state line="12" column="38" selection-start="531" selection-end="531" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="464" selection-end="464" vertical-scroll-proportion="0.3207547">
           <folding />
         </state>
       </provider>

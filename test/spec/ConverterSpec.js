@@ -7,4 +7,9 @@ describe("My Converter", function(){
         expect(function()
         {Converter.convertFromImperialToMetric("hello")}).toThrow(new Error("not a number"));
     })
+    it ("should be a positive number", function(){
+         expect(function()
+         {Converter.positiveNum(-1)}).toThrow(new Error("not a positive number"));
+
+    })
 })
