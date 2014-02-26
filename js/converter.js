@@ -17,4 +17,4 @@ var Converter = (function(){
             return weight / converterValue;
         }
     }
-})
+}());
