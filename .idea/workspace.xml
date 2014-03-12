@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42be0503-b911-4bd4-a67c-8b08fabd646c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/calculation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/new_skel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/calculation.js" afterPath="$PROJECT_DIR$/js/calculation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,7 +30,7 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="561">
+            <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
@@ -40,7 +39,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="79" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="0" column="79" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
@@ -49,7 +48,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="38" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-21.076923" vertical-offset="200" max-vertical-offset="1683">
+            <state line="33" column="37" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0" vertical-offset="383" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -58,8 +57,10 @@
       <file leaf-file-name="calculation.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/calculation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="47" selection-start="345" selection-end="345" vertical-scroll-proportion="0.33552632" vertical-offset="0" max-vertical-offset="608">
-              <folding />
+            <state line="24" column="91" selection-start="652" selection-end="652" vertical-scroll-proportion="0.44078946" vertical-offset="140" max-vertical-offset="748">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +68,7 @@
       <file leaf-file-name="new_skel.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/new_skel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="11" column="30" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
               <folding>
                 <marker date="1394048315866" expanded="true" signature="22:408" placeholder="{&quot;prefix&quot;: &quot;css/style&quot;...}" />
               </folding>
@@ -78,7 +79,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+            <state line="2" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
               <folding />
             </state>
           </provider>
@@ -87,7 +88,7 @@
       <file leaf-file-name="ConverterSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="2" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+            <state line="14" column="2" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -136,7 +137,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1375" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -350,20 +351,23 @@
       <created>1394044281784</created>
       <updated>1394044281784</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="push to heroku&#10;">
+      <created>1394054435357</created>
+      <updated>1394054435357</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1375" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18795888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1883738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -373,6 +377,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -414,12 +419,133 @@
     <MESSAGE value="js and css files" />
     <MESSAGE value="js and css files&#10;" />
     <MESSAGE value="first deploy&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="first deploy&#10;" />
+    <MESSAGE value="push to heroku&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to heroku&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="37" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0" vertical-offset="383" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="91" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="748">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/new_skel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="30" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding>
+            <marker date="1394048315866" expanded="true" signature="22:408" placeholder="{&quot;prefix&quot;: &quot;css/style&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="58" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="38" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="47" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/new_skel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="30" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding>
+            <marker date="1394048315866" expanded="true" signature="22:408" placeholder="{&quot;prefix&quot;: &quot;css/style&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="58" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="2" selection-start="238" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
@@ -559,7 +685,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="561">
+        <state line="25" column="7" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
@@ -582,9 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
@@ -596,15 +720,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="38" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-21.076923" vertical-offset="200" max-vertical-offset="1683">
+        <state line="33" column="37" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0" vertical-offset="383" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calculation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="47" selection-start="345" selection-end="345" vertical-scroll-proportion="0.33552632" vertical-offset="0" max-vertical-offset="608">
-          <folding />
+        <state line="24" column="91" selection-start="652" selection-end="652" vertical-scroll-proportion="0.44078946" vertical-offset="140" max-vertical-offset="748">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
